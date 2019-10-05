@@ -40,7 +40,7 @@ def closer(main_list, h):
     return res
 
 # Function which sort to put each house to the closest one to optimize the travel of snowplow, try with each house at
-# first and return the ist with the less average waiting time
+# first and forget if the house is too far from the beginning  and return the list with the less average waiting time
 
 
 def mySort2(main_list):
